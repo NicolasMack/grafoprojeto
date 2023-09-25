@@ -1,0 +1,16 @@
+2
+14
+"Porto de Manaus" -3.128071 -60.023411
+"Porto de Belém" -1.455370 -48.502166
+"Porto de Santarém" -2.438485 -54.715381
+"Porto de Itacoatiara" -3.138016 -58.438991
+"Porto de Recife" -8.047562 -34.876964
+"Porto de Salvador" -12.970382 -38.501396
+"Porto de Maceió" -9.665647 -35.734330
+"Porto de Aratu" -12.800924 -38.571695
+"Porto de Cáceres" -16.071080 -57.682148
+"Porto de Corumbá" -19.009388 -57.654139
+"Porto de São Paulo" -23.951294 -46.791915
+"Porto de Santos" -23.983133 -46.327982
+"Porto de Porto Alegre" -30.020657 -51.227958
+"Porto de Paranaguá" -25.514596 -48.518066
